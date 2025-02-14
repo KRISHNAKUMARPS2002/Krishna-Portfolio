@@ -1,24 +1,17 @@
-# React + Vite
+# React + Vite ⚡
 
-This project is built using React and Vite, providing a minimal setup with Hot Module Replacement (HMR) and ESLint rules for an optimized development workflow.
+This project is built using **React** and **Vite**, providing a minimal setup with **Hot Module Replacement (HMR)** and **ESLint rules** for an optimized development workflow.
 
-## Features
+## 🚀 Features
 
-- 🚀 **Fast Refresh** with Vite's HMR  
-- 🔧 **Minimal Configuration** for quick development  
-- 📦 **Two Official Plugins Available**:
+- 🔥 Fast Refresh with Vite's HMR  
+- ⚡ Lightning-fast builds with minimal configuration  
+- 📦 Supports both:
   - [`@vitejs/plugin-react`](https://github.com/vitejs/vite-plugin-react) – Uses Babel for Fast Refresh  
   - [`@vitejs/plugin-react-swc`](https://github.com/vitejs/vite-plugin-react-swc) – Uses SWC for Fast Refresh  
 
-## Getting Started
+## 📌 Getting Started
 
-### Install Dependencies
+### Install Dependencies  
 ```sh
 npm install
-
-
-
-
-## Live Demo
-- 🚀 Check out the live project here:
-- 👉 Krishna Kumar PS Portfolio
